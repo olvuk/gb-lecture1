@@ -1,0 +1,15 @@
+C:\Users\hren_\Desktop\gb0906\examples\bin\Debug\net6.0\examples.exe
+C:\Users\hren_\Desktop\gb0906\examples\bin\Debug\net6.0\examples.deps.json
+C:\Users\hren_\Desktop\gb0906\examples\bin\Debug\net6.0\examples.runtimeconfig.json
+C:\Users\hren_\Desktop\gb0906\examples\bin\Debug\net6.0\examples.dll
+C:\Users\hren_\Desktop\gb0906\examples\bin\Debug\net6.0\examples.pdb
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\examples.csproj.AssemblyReference.cache
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\examples.AssemblyInfoInputs.cache
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\examples.AssemblyInfo.cs
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\examples.csproj.CoreCompileInputs.cache
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\examples.dll
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\refint\examples.dll
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\examples.pdb
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\examples.genruntimeconfig.cache
+C:\Users\hren_\Desktop\gb0906\examples\obj\Debug\net6.0\ref\examples.dll
